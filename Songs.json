@@ -1,4 +1,4 @@
-//List of music data
+
 var musicData   = [
 {
  id:1,
