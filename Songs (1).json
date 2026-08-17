@@ -1,0 +1,244 @@
+{
+  "musicData": [
+    {
+      "id": 1,
+      "name": "Stronger Everyday",
+      "artist": "Jackson Cries",
+      "album_title": "Chill Mix",
+      "src": "https://dl.dropbox.com/s/ukhn9y9uj24dy00/cradles%20-%20sub%20urban-%20%5Bmymp3bhojpuri.in%5D.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/17840/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 2,
+      "name": "Summer Vibes",
+      "artist": "Rick Bona",
+      "album_title": "Chill Mix",
+      "src": "https://dl.dropbox.com/s/e5y42cc90ugx09t/Believer.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 3,
+      "name": "Memories Of Choice",
+      "artist": "Maroon 5",
+      "album_title": "Chill Mix",
+      "src": "https://dl.dropbox.com/s/x6f49cu1rdqnngu/Let%20Me%20Love%20You.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 4,
+      "name": "Pawn It All",
+      "artist": "Alicia Keys",
+      "album_title": "Chill Mix",
+      "src": "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Pawn-It-All.mp3",
+      "image": "https://images.pexels.com/photos/54320/rose-roses-flowers-red-54320.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 5,
+      "name": "Let Me Love You",
+      "artist": "Ariana Grande",
+      "album_title": "Chill Mix",
+      "src": "https://www.dropbox.com/scl/fi/t33ailg76eiupukqwyvzg/ariana_grande_let_me_love_you_official_ft._lil_wayne_mp3_40938.mp3?rlkey=wc59e3f6k6wmxqi3pc7vtgl08&st=pemak5yt&dl=1",
+      "image": "https://images.pexels.com/photos/1759823/pexels-photo-1759823.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 6,
+      "name": "Girls Like You",
+      "artist": "Maroon 5",
+      "album_title": "Chill Mix",
+      "src": "https://dl.dropbox.com/s/yc2k5e8kvtg291q/Girls%20Like%20You_Maroon%205_Girls%20Like%20You.xoht?dl=0",
+      "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 7,
+      "name": "Summer Vibes",
+      "artist": "Rick Bona",
+      "album_title": "Chill Mix",
+      "src": "https://dn711005.ca.archive.org/0/items/cradleofthedeep_2606_librivox/cradleofthedeep_01_lowell_64kb.mp3",
+      "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 8,
+      "name": "Dont-Look-Down",
+      "artist": "Marshmello",
+      "album_title": "Chill Mix",
+      "src": "https://emilcarlsson.se/assets/Martin Garrix feat. Usher - Don't Look Down (Lyric Video).mp3",
+      "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 9,
+      "name": "Bring-Me-The-Horizon",
+      "artist": "Avalanche",
+      "album_title": "Chill Mix",
+      "src": "https://emilcarlsson.se/assets/bring-me-the-horizon-avalanche.mp3",
+      "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 10,
+      "name": "The Nights",
+      "artist": "Avicii",
+      "album_title": "Chill Mix",
+      "src": "https://emilcarlsson.se/assets/Avicii - The Nights.mp3",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 11,
+      "name": "Legends never die",
+      "artist": "A",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/s/5jyylqps64nyoez/Legends%20never%20die.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 12,
+      "name": "Never Let Me Down",
+      "artist": "Vize & Tom Gregory",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/s/x6f49cu1rdqnngu/Let%20Me%20Love%20You.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 13,
+      "name": "Believer",
+      "artist": "Be",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/s/e5y42cc90ugx09t/Believer.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 14,
+      "name": "The World",
+      "artist": "Be",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/s/1m7gbqazma8e6dw/The%20World%20english%20cover.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 15,
+      "name": "Unravel",
+      "artist": "Be",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/s/wgf8wo6ud7ezv45/Unravel.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 16,
+      "name": "I am Kira",
+      "artist": "Be",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/s/rvlinjltssarwaw/I%20am%20kira.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 17,
+      "name": "Obey me World",
+      "artist": "Be",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/s/byk8yxqy1jzxyx5/Obey%20me%20world.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 18,
+      "name": "Kira vs Zero",
+      "artist": "Be",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/s/c8rinnz3l7uerle/Kira%20vs%20zero.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 19,
+      "name": "Salvation",
+      "artist": "Be",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/s/1sw4ysdgmkb5dse/Salvation.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 20,
+      "name": "Story of my life",
+      "artist": "Be",
+      "album_title": "(When You Gonna) Give it up to me (radio)",
+      "src": "https://dl.dropbox.com/scl/fi/1t2tdcmlpdf8yd33hum31/Story_of_My_Life-256k.mp3?rlkey=kzk5qlrgl5zlx14l6v9dej2uu&dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 21,
+      "name": "Señorita",
+      "artist": "Shawn Mendes ft Camila Cabelos",
+      "album_title": "Hip Hop Mix",
+      "src": "https://dl.dropbox.com/s/xa32b56cmhtk7h6/Shawn%20Mendes%20ft.%20Camila%20Cabello%20-%20Se%C3%B1orita%20%281%29.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 22,
+      "name": "Thunder Dragon",
+      "artist": "Yung",
+      "album_title": "Hip Hop Mix",
+      "src": "https://dl.dropbox.com/s/xvxt4bic6hyu5b2/Imagine%20Dragons%20Thunder.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 23,
+      "name": "Attention",
+      "artist": "Charlie Puth",
+      "album_title": "Hip Hop Mix",
+      "src": "https://dl.dropbox.com/s/z4idfy17k92b2gp/Attention_Charlie%20Puth%20Audio.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 24,
+      "name": "Imagine Dragons",
+      "artist": "Natural",
+      "album_title": "Hip Hop Mix",
+      "src": "https://dl.dropbox.com/s/m7w1wkeawrj5g0d/y2mate.com%20-%20imagine_dragons_natural_lyrics_V5M2WZiAy6k.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 25,
+      "name": "Demons Imagine Dragons",
+      "artist": "Natural",
+      "album_title": "Hip Hop Mix",
+      "src": "https://dl.dropbox.com/s/4c79ewnctr22t94/y2mate.com%20-%20demons_imagine_dragons_GFQYaoiIFh8.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 26,
+      "name": "Radioactive Imagine Dragons",
+      "artist": "Natural",
+      "album_title": "Hip Hop Mix",
+      "src": "https://dl.dropbox.com/s/aoykxoao38lzrds/y2mate.com%20-%20radioactive_imagine_dragons_lyrics_iO_WxYC34eM.mp3?dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 27,
+      "name": "One Republic",
+      "artist": "Natural",
+      "album_title": "Hip Hop Mix",
+      "src": "https://dl.dropbox.com/s/cw91h343e1bz9ik/OneRepublic%20-%20Counting%20Stars%20%28Official%20Music%20Video%29.mp3",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 28,
+      "name": "Stay",
+      "artist": "Natural",
+      "album_title": "Hip Hop Mix",
+      "src": "https://www.dropbox.com/s/mpm1u6bfzp1sbgc/the_kid_laroi_justin_bieber_-_stay_%28getmp3.pro%29.mp3?raw=1",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 29,
+      "name": "Look At Me Now",
+      "artist": "ChristBrown ft LilWayne",
+      "album_title": "Hip Hop Mix",
+      "src": "https://www.dropbox.com/scl/fi/xdd0eb6i9jn5wzsnjjaxb/chris_brown_look_at_me_now_ft._lil_wayne_busta_rhymes_mp3_40815.mp3?rlkey=6dmcycv5eqbul365mhloiwdod&st=swkkibyg&dl=1",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 30,
+      "name": "The Sky Is The Limit",
+      "artist": "Lil Wayne",
+      "album_title": "Hip Hop Mix",
+      "src": "https://www.dropbox.com/scl/fi/ntpvliqjnbsqt0i3vvh6c/lil_wayne_the_sky_is_the_limit_lyrics_mp3_41032.mp3?rlkey=4vr04yqvfhcoyecsuukpo2zx5&st=xfwz11ru&dl=0",
+      "image": "https://images.pexels.com/photos/1263986/pexels-photo-1263986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+  ]
+}
